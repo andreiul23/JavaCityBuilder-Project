@@ -59,6 +59,7 @@ java -cp target/classes main.Runner
 
 
 🏗️ Tipuri de clădiri
+```
 Clădire	    Cost	     Locuitori	   Locuri de muncă	Condiții
 🏠 Casă	    $800	     4–6	         0	              Lângă drum sau iarbă adiacentă
 🏢 Bloc	    $3,000	   20–30	       0	              Lângă drum
@@ -66,6 +67,7 @@ Clădire	    Cost	     Locuitori	   Locuri de muncă	Condiții
 🛒 Magazin	$6,000	   0	           30–50	          Lângă drum
 🌳 Parc	    $2,500	   0	           0	              Lângă apă
 🛣️ Drum	   $200	      0	            0	               Trebuie să atingă un alt drum
+```
 
 📈 Costurile cresc progresiv cu aproximativ 10% pentru fiecare clădire nouă de același tip.
 🧨 Demolarea are un cost inițial de $1,250, care se dublează la fiecare utilizare.
