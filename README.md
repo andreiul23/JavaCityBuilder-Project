@@ -114,10 +114,6 @@ Strategy pentru comportamentul clădirilor
 Singleton pentru jurnalul de evenimente
 Memento pentru undo și salvare
 
-📦 Versiune și autori
-🏷️ Versiune: 2.1.0
-☕ Limbaj: Java 21 LTS
-👨‍💻 Autori: Popa Andrei și Varvara Matei
 
 🚀 Dezvoltări viitoare
 
@@ -125,5 +121,10 @@ Memento pentru undo și salvare
 📊 grafice economice
 🌍 hărți multiple
 🤖 asistent AI
+
+📦 Versiune și autori
+🏷️ Versiune: 2.1.0
+☕ Limbaj: Java 21 LTS
+👨‍💻 Autori: Popa Andrei și Varvara Matei
 🌙 ciclu zi/noapte
 🏆 clasamente
