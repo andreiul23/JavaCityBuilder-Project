@@ -116,15 +116,17 @@ Memento pentru undo și salvare
 
 
 🚀 Dezvoltări viitoare
-
+```
 🎵 sunete și muzică
 📊 grafice economice
 🌍 hărți multiple
 🤖 asistent AI
+🌙 ciclu zi/noapte
+🏆 clasamente
+```
 
 📦 Versiune și autori
 🏷️ Versiune: 2.1.0
 ☕ Limbaj: Java 21 LTS
 👨‍💻 Autori: Popa Andrei și Varvara Matei
-🌙 ciclu zi/noapte
-🏆 clasamente
+
