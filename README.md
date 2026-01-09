@@ -17,19 +17,24 @@ Istoricul de evenimente afișează în timp real:
 ⚡ Pornire rapidă
 
 🪟 Windows (recomandat)
+```
 cd Java-City-Builder
 .\run.bat
-
+```
 
 Compilează proiectul, copiază resursele și pornește jocul automat.
 
 🧪 Mod demo (fără interfață grafică)
+```
 java -cp target/classes main.Runner --demo-only
+```
 
 🐧 macOS / Linux
+```
 javac -d target/classes src/main/java/main/*.java src/main/java/boardPieces/*.java
 cp -R src/main/resources/* target/classes/
 java -cp target/classes main.Runner
+```
 
 🎮 Controale joc
 
